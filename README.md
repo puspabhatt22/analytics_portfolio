@@ -148,7 +148,7 @@ Based on the analysis, I recommend the following actions:
 
 Hi, I’m Puspa! I recently graduated from NC State University with a degree in Business Administration, concentrating in IT, and I’m excited to start my career in analytics.
 
-I work with Tableau, SQL, and Excel to explore data and uncover meaningful insights. I believe every dataset tells a story — the key is asking the right questions. I enjoy finding patterns, trends, and opportunities that help businesses make better decisions and drive impact.
+I work with Tableau, SQL, and Excel to explore data and uncover meaningful insights. I believe every dataset tells a story, the key is asking the right questions. 
 
 ---
 
